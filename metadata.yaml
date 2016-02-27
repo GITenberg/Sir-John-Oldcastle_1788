@@ -1,0 +1,22 @@
+_repo: Sir-John-Oldcastle_1788
+creator:
+  author:
+    agent_name: Shakespeare (spurious and doubtful works)
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '654'
+    url: http://www.gutenberg.org/2009/agents/654
+description: ''
+gutenberg_issued: '1999-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1788'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Oldcastle, John, Sir, -1417 -- Drama'
+- !lcc 'PR'
+title: Sir John Oldcastle
+url: http://www.gutenberg.org/ebooks/1788
