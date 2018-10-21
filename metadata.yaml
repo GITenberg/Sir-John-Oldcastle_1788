@@ -1,5 +1,5 @@
 _repo: Sir-John-Oldcastle_1788
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,5 +24,6 @@ rights_url: ''
 subjects:
 - !lcsh 'Oldcastle, John, Sir, -1417 -- Drama'
 - !lcc 'PR'
+- GITenberg
 title: Sir John Oldcastle
 url: http://www.gutenberg.org/ebooks/1788
